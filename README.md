@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KachiFortune1
+- I am a Java developer, I also have experiences in Hibernate,Jsf,C++
+- 🌱 I’m currently improving my experience in javafx
+- 💞️ I'm searching for jobs in software development department
+- 📫 How to reach me ☎️08061992661,📠 kachifortune4@gmail.com 
